@@ -5,3 +5,8 @@ if(firstNumber % secondNumber is 0):
     print(secondNumber," is a factor of ",firstNumber);
 else:
     print(secondNumber," is not a factor of ",firstNumber);
+
+
+if(firstNumber == secondNumber False):
+    print('they\'re the same and true!');
+
