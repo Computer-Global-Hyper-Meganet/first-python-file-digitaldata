@@ -7,6 +7,6 @@ else:
     print(secondNumber," is not a factor of ",firstNumber);
 
 
-if(firstNumber == secondNumber False):
+if(firstNumber == secondNumber):
     print('they\'re the same and true!');
 
